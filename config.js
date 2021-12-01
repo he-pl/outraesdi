@@ -4,7 +4,7 @@ var config = {
     showMarkers: false,
     markerColor: '#3FB1CE',
     theme: 'light',
-    use3dTerrain: false,
+    use3dTerrain: true,
     title: 'Outra ESDI, Outros Caminhos',
     subtitle: 'Especulações entre a ESDI, a cidade e a floresta',
     byline: 'Um mapa interativo por Pamela Marques (em construção)',
